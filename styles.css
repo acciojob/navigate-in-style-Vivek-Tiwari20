@@ -1,10 +1,16 @@
-nav{
-    background-color: #D3D3D3;
-    padding: 10px;
-   
+.container{
+	
+	padding:10px;
+	display:inline;
+	background-color:rgb(211,211,211);
+	
 }
 li{
-    display: inline;
-    margin-right: 1rem;
-    list-style: none;
+	margin-right:16px;
+	list-style:none;
+	
+}
+ul{
+/* 	background-color:rgb(211,211,211); */
+	display:flex;
 }
